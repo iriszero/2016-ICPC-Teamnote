@@ -1,3 +1,10 @@
+# XCode Files
+*.pbxproj
+*.xcworkspacedata
+*.xcuserstate
+*.xcscheme
+*.plist
+
 # Compiled Object files
 *.slo
 *.lo
